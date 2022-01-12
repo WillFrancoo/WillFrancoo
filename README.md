@@ -8,5 +8,6 @@
 ![WillFranco GitHub stats](https://github-readme-stats.vercel.app/api?username=WillFranco&show_icons=true&theme=highcontrast)
 
 ## O que estou estudando!!!👨🏽‍🎓
+## francês, html, css...
 
 
