@@ -22,7 +22,7 @@
     <a href="william_franco@outlook.pt" target="_blank"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" target="blank"></a>
     <a href="francowill" target="_blank"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="blank"></a><br><br>
     
-    </div>
+   
  
 
 
